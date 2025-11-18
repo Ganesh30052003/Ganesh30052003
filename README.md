@@ -77,7 +77,15 @@ A media-focused election analysis dashboard built for 2026 reporting.
 > Add your screenshots like this:
 
 <p align="center">
-  <img src="screenshots/dashboard1.png" width="700">
+  <img src="screenshots/covid19-1.png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshots/covid19-2.png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshots/covid19-3.png" width="700">
 </p>
 
 ---
