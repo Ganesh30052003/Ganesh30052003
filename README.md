@@ -102,7 +102,7 @@ A media-focused election analysis dashboard built for 2026 reporting.
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ganesh-kondamwar" target="_blank">
+<a href="https://www.linkedin.com/in/ganesh-kondamwar-30309222b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
 </a>
 
