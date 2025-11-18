@@ -17,7 +17,7 @@ Currently exploring **Power BI, DAX, SQL optimisation, Python automation**, and 
 - 🔭 **Current Internship:** Data Visualization Intern – Infosys Springboard (ElectViz: Election Data Dashboard)  
 - 🌱 Learning: **Advanced DAX, Data Modelling, Python + Pandas**  
 - 💡 Interested in: BI, Analytics, Data Engineering, and Automation  
-- 📫 Contact me: **s21_kondamwar_ganesh@mgmcen.ac.in**
+- 📫 Contact me: **ganeshkondamwar2025@gmail.com**
 
 ---
 
