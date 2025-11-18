@@ -74,7 +74,7 @@ A media-focused election analysis dashboard built for 2026 reporting.
 
 ## 📸 Dashboard Previews
 
-> Add your screenshots like this:
+> These are some sample Dashboard Preview :
 
 <p align="center">
   <img src="screenshots/covid19-1.png" width="700">
@@ -106,7 +106,7 @@ A media-focused election analysis dashboard built for 2026 reporting.
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
 </a>
 
-<a href="mailto:s21_kondamwar_ganesh@mgmcen.ac.in">
+<a href="mailto:ganeshkondamwar2025@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail">
 </a>
 </p>
