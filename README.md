@@ -57,7 +57,7 @@ A complete sales analytics project with SQL queries, Python EDA and Power BI das
 - Category insights  
 - Data modelling for BI  
 
-📂 Repo: *Add link after you upload*
+📂 Repo: **https://github.com/Ganesh30052003/Walmart-SQL-Analysis.git**
 
 ---
 
@@ -68,7 +68,7 @@ A media-focused election analysis dashboard built for 2026 reporting.
 - KPI cards + geospatial maps  
 - Star schema modelling  
 
-📂 Repo: *Add link after you upload*
+📂 Repo: **https://github.com/Ganesh30052003/Info_Springboard_internship.git***
 
 ---
 
